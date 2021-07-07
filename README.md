@@ -1,16 +1,16 @@
-### Hi there 👋
+![Powered By Black Magic](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
-<!--
-**ugackMiner53/ugackMiner53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+I'm a coder who loves to dabble in all sorts of projects, mostly mods.
 
-Here are some ideas to get you started:
+ **Some games I like:**
+ - Minecraft
+ - Portal
+ - Among Us
+ - Celeste
+ - Karlson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently  working on:
+Right now I'm working on my website, which will be out soon.
+
+Some of my other projects include Mitch-Client, Google Meet Formatting, and Decorative Overlays
